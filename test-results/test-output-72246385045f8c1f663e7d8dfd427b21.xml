@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="30.5580" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-06-11T17:41:52" tests="0" file="cypress\integration\validarNomeUnidade.feature" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Validando nome da unidade" timestamp="2021-06-11T17:41:52" tests="1" time="30.5580" failures="0">
+    <testcase name="Validando nome da unidade Validando nome da unidade" time="30.5580" classname="Validando nome da unidade">
+    </testcase>
+  </testsuite>
+</testsuites>

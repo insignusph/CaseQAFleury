@@ -1,0 +1,15 @@
+{
+    "scripts": {
+        "test:chrome": "cypress run --browser chrome --record --key 26a8450a-3e98-4d3e-9411-407af63b20dc "
+    },
+    "dependencies": {
+        "axios": "^0.21.0",
+        "cypress": "^6.0.1",
+        "cypress-cucumber-preprocessor": "^4.0.0",
+        "fs-extra": "^9.0.1",
+        "glob": "^7.1.6"
+    },
+    "cypress-cucumber-preprocessor": {
+        "nonGlobalStepDefinitions": true
+     }
+}

@@ -1,0 +1,14 @@
+{
+    "viewportWidth": 1024,
+    "viewportHeight": 768,
+    "defaultCommandTimeout": 10000,
+    "baseUrl": "https://www.fleury.com.br/",
+    "ignoreTestFiles": ["*.js", "*.ts", "*.md"],
+    "testFiles": "**/*.feature",
+    "reporter": "junit",
+    "reporterOptions": {
+    "mochaFile": "test-results/test-output-[hash].xml"
+    },
+    "chromeWebSecurity": false,
+    "projectId": "h48p6z"
+}
